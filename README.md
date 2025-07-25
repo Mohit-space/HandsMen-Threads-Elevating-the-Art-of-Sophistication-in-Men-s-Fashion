@@ -66,9 +66,9 @@ HandsMen Threads is implementing Salesforce to centralize data, automate core wo
 - Writing **Apex and Asynchronous Apex** for complex operations
 
 
-🔗 Project Links 🎥 Demo Video:https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=drive_link
+🔗 Project Links 🎥 Demo Video:
 
-💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion
+💻 GitHub Repository:
 
 ---
 🔄 Custom Objects: HandsMen Customer
