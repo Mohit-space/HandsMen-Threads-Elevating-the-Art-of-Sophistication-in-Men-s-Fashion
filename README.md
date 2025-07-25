@@ -68,7 +68,7 @@ HandsMen Threads is implementing Salesforce to centralize data, automate core wo
 
 🔗 Project Links 🎥 Demo Video:https://drive.google.com/file/d/1oUwSUovHJ55V2RL3yUfmxggUk_2pKFOm/view?usp=drive_link
 
-💻 GitHub Repository:
+💻 GitHub Repository:https://github.com/Mohit-space/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion/tree/main
 
 ---
 🔄 Custom Objects: HandsMen Customer
